@@ -20,7 +20,7 @@ options {
             }
         }
 
-        stage('Test1234') {
+        stage('Test1') {
             steps {
                 echo 'Starting the Test stage...'
                 // Replace with your actual test commands
